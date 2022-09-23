@@ -1,0 +1,2 @@
+2022-09-22 21:56:16,459 - kedro.framework.session.session - INFO - ** Kedro project sgd_kedro
+2022-09-22 21:56:16,470 - kedro.framework.session.store - INFO - `save()` not implemented for `BaseSessionStore`. Skipping the step.
